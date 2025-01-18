@@ -1,0 +1,1 @@
+console.log("init skeleton sample js")
